@@ -1,6 +1,6 @@
 # Burak TİTİZ - Data Structures and Algorithms
 
-## Prpject
+## Project
 
 |İçerik
 |:---------------------:
