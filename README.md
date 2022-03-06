@@ -5,4 +5,4 @@
 |İçerik
 |:---------------:
 | [Insertion Sort Project](https://github.com/buraktitiz/data_structures_and_algorithms/blob/main/Insertion%20Sort/README.md)
-
+| [Merge Sort Project](https://github.com/buraktitiz/data_structures_and_algorithms/blob/main/Merge%20Sort/README.md)
